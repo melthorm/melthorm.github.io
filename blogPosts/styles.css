@@ -41,6 +41,7 @@ nav a:hover {
 
 .title {
   position: absolute;
+  color: #fff;
   top: 20px;
   right: 20px;
   font-size: 1.3rem;
