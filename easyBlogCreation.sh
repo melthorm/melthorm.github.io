@@ -24,93 +24,9 @@ html_content=$(cat <<EOF
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
   <title>"${name}_${currentDate}"</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-
-    body {
-      background-color: #000;
-      color: #fff;
-      font-family: 'Garamond', serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      overflow: hidden;
-    }
-
-    nav {
-      position: absolute;
-      top: 20px;
-      left: 20px;
-      display: flex;
-      flex-direction: column;
-    }
-
-    nav a {
-      color: #fff;
-      text-decoration: none;
-      font-size: 1.2rem;
-      margin-bottom: 15px;
-      letter-spacing: 0.1em;
-      transition: color 0.3s, transform 0.3s;
-    }
-
-    nav a:hover {
-      color: #8E8a8a;
-      transform: scale(1.05);
-    }
-
-
-    .title {
-      position: absolute;
-      top: 20px;
-      right: 20px;
-      font-size: 1.3rem;
-      letter-spacing: 0.1em;
-      opacity: 0.7;
-      transition: opacity 0.3s;
-    }
-
-    .title:hover {
-      opacity: 1;
-    }
-
-    h1 {
-      font-size: 3rem;
-      margin-bottom: 20px;
-    }
-
-    .content {
-      max-width: 600px;
-      text-align: left;
-    }
-
-    p {
-      font-size: 1.2rem;
-      margin-bottom: 20px;
-    }
-
-    .back-link {
-      font-size: 1.2rem;
-      color: #8e8a7a;
-      text-decoration: none;
-      margin-top: 40px;
-      display: block;
-      text-align: center;
-      transition: color 0.3s;
-    }
-
-    .back-link:hover {
-      color: #8E8a8a;
-      transform: scale(1.05);
-    }
-  </style>
-</head>
+  </head>
 <body>
   <nav>
     <a href="../index.html">Home</a>
