@@ -11,6 +11,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow-y: auto;
   height: 100vh;
   overflow: hidden;
 }
@@ -53,7 +54,6 @@ nav a:hover {
 
 .content {
   text-align: center;
-  overflow-y: auto;
   max-width: 80%;
 }
 
