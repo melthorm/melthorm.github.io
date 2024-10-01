@@ -93,10 +93,23 @@ p {
   color: #8E8a7a;
   font-size: 1.2rem;
   text-decoration: none;
-  transition: color 0.3s;
+  transition: color 0.3s, transform 0.3s;
 }
 
 .links a:hover {
+  color: #8E8a8a;
+  transform: scale(1.05);
+}
+
+a {
+    color: #8E8a7a; 
+    text-decoration: none;
+
+  transition: color 0.3s, transform 0.3s;
+  
+}
+
+a:hover {
   color: #8E8a8a;
   transform: scale(1.05);
 }
