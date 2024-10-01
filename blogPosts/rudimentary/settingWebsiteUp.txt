@@ -1,0 +1,7 @@
+This process of setting up benjamincai.com was horrid. I think it's because I do not know anything about domains or names or sites or anything of the sort. It was horrid. I tried Codeberg, it did not go well.
+
+I tried a lot. I'm not even sure if this blog post will have new lines. We shall see. Oh, maybe \n will provide a new line. I don't know. I wrote this code pretty badly.
+
+Either way, I really hated this process. First, I had the site ready and thought everything would be easy. I registered a domain and searched up a couple tutorials. I tried just using namecheap (my registrar) to link back to codeberg pages through CNAME. That did not work. Then, I tried going to Cloudflare to do CNAME (don't ask me why). That did not work either. So finally, after a couple days spent (like all the hours in the day spent), I gave up and went to github. It was stupidly easy to set it up on github. Like I literally just pressed like 4 buttons and my site was up. It was too easy.
+
+Btw, for future reference, the about me used to say 'I started coding cause of linux. Linux go brrrr.' I wrote the bash code to make blogs really bad. It basically just takes a .txt file and plugs it into part of an html file. I do not know if this will work. We shall see. first post done. cya later
