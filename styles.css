@@ -9,10 +9,12 @@ body {
   color: #fff;
   font-family: 'Garamond', serif;
   display: flex;
+  height: auto;
+  margin: 15% auto;
+  padding: 2rem;
   justify-content: center;
   align-items: center;
   overflow-y: auto;
-  height: 100vh;
 }
 
 nav {
@@ -64,6 +66,7 @@ h1 {
 }
 
 p {
+  color: #8E8a7a;
   font-size: 1.2rem;
   line-height: 1.6;
   max-width: 600px;
@@ -101,14 +104,11 @@ p {
 }
 
 a {
-    color: #8E8a7a; 
+    color: #000; 
     text-decoration: none;
-
-  transition: color 0.3s, transform 0.3s;
-  
+  transition: color 0.3s, transform 0.3s; 
 }
 
 a:hover {
-  color: #8E8a8a;
   transform: scale(1.05);
 }
