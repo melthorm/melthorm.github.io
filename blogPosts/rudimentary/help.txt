@@ -1,0 +1,2 @@
+Ok, many, many, many problems. I just looked at the blog post I just posted. It looks very bad. There are no new lines. I do not know how to insert new lines, so now I am visting w3 to learn. It is <br> Cool huh, new line. Very cool. I am writing all of this in a .txt file. Then that .txt file is being converted to HTML. It is not a good process. I hope it will become better. <br> Welp, this is it. Cya later. <br> <br> One day, this will be in something like idk, the scrolly thing (React?). Don't know.
+
