@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: 'Garamond', serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    nav {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      font-size: 1.2rem;
+      margin-bottom: 15px;
+      letter-spacing: 0.1em;
+      transition: color 0.3s, transform 0.3s;
+    }
+
+    nav a:hover {
+      color: #8E8a8a;
+      transform: scale(1.05);
+    }
+
+    .title {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      font-size: 1.3rem;
+      letter-spacing: 0.1em;
+      opacity: 0.7;
+      transition: opacity 0.3s;
+    }
+
+    .title:hover {
+      opacity: 1;
+    }
+
+    .content {
+      text-align: center;
+      max-width: 80%;
+    }
+
+    h1 {
+      font-size: 4rem;
+      margin-bottom: 20px;
+      letter-spacing: 0.1em;
+      transition: transform 0.3s;
+    }
+
+    p {
+      color: #8E8a8a;
+      font-size: 1.2rem;
+      line-height: 1.6;
+      max-width: 600px;
+      margin: 0 auto;
+      opacity: 0.8;
+      transition: opacity 0.3s, color 0.3s;
+    }
+    
+    .portfolio-section {
+      margin-bottom: 50px;
+    }
+
+    .portfolio-section h2 {
+      font-size: 1rem;
+      margin-bottom: 20px;
+      text-align: left;
+    }
+    
+    .links {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .links a {
+      color: #8E8a7a;
+      font-size: 1.2rem;
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+
+    .links a:hover {
+      color: #8E8a8a;
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="blog.html">Blog</a>
+    <a href="about.html">About Me</a>
+  </nav>
+  
+  <div class="content">
+    <h1>Stuff</h1>
+    
+    <!-- Code stuffs -->
+    <div class="portfolio-section">
+      <h2>Code:</h2>
+      <div class="links">
+        <a href="https://melthorm.codeberg.page/chessHangman/" target="_blank">Web Chess Hangman Game</a>
+        <a href="https://codeberg.org/Melthorm/tsvToFastaWorkflow" target="_blank">Repository for Workflow for Transmission Cluster Identification</a>
+        <a href="https://codeberg.org/Melthorm/knots" target="_blank">Torus Knot Visualizer</a>
+        <a href="https://codeberg.org/Melthorm/The_War_Against_Worms" target="_blank">Agent-Based Screwworm Sterilization Simulation</a>
+        <a href="https://codeberg.org/Melthorm/agentBasedTC" target="_blank">Phylogeny Simulation (?)</a>
+      </div>
+    </div>
+    
+    
+  </div>
+</body>
+</html>
+
