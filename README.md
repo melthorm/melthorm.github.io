@@ -1,5 +1,4 @@
 # website
 
-#WEBSITE
-
-https://melthorm.codeberg.page/website/
+https://github.com/melthorm/melthorm.github.io
+http://benjamincai.com/
