@@ -1,0 +1,51 @@
+title: Benjamin Dongjie Cai
+description: I'm me
+baseurl: ""
+url: https://benjamincai.com
+
+theme: null
+
+# site settings
+taglong: I'm very much me
+tagshort: I'm me
+cv: true
+
+# author settings
+author:
+  name: Benjamin Cai
+  email: main@benjamincai.com
+photo: assets/files/Headshot.jpg
+address: I'd rather not
+phone: I'd truly rather not
+
+# profile links
+profile: 
+  github: https://github.com/melthorm
+  linkedin: https://www.linkedin.com/in/benjamin-cai-523477306/
+
+
+  # build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+  - docker-compose.yml
+
+
+collections:
+  projects:
+    output: true
+  posts:
+    output: true
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never

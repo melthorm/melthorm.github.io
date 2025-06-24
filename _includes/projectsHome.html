@@ -1,0 +1,19 @@
+{% assign projectsByYearMonth = site.projects | group_by_exp: "project", "project.date | date: '%B %Y'" %}
+
+<div class="archive">
+  {% for yearMonth in projectsByYearMonth %}
+  <h2>{{ yearMonth.name }}</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 1em;">
+    {% for project in yearMonth.items %}
+    <div style="flex: 1 1 45%; box-sizing: border-box;">
+      {% if project.image %}
+      <img src="{{ project.image }}" alt="{{ project.title }}" style="max-width: 100%; height: auto; display: block; margin-bottom: 0.5em;" />
+      {% endif %}
+      <a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+      <p class="lead">{{ project.lead }}</p>
+    </div>
+    {% endfor %}
+  </div>
+  {% endfor %}
+</div>
+

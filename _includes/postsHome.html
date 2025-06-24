@@ -1,0 +1,19 @@
+{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+
+<div class="archive">
+  {% for yearMonth in postsByYearMonth %}
+  <h2>{{ yearMonth.name }}</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 1em;">
+    {% for post in yearMonth.items %}
+    <div style="flex: 1 1 45%; box-sizing: border-box;">
+      {% if post.image %}
+      <img src="{{ post.image }}" alt="{{ post.title }}" style="max-width: 100%; height: auto; display: block; margin-bottom: 0.5em;" />
+      {% endif %}
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <p class="lead">{{ post.lead }}</p>
+    </div>
+    {% endfor %}
+  </div>
+  {% endfor %}
+</div>
+
