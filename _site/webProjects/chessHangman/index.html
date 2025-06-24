@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chess Hangman</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Chess Hangman</h1>
+    <div id="puzzleInfo"></div> 
+    <div id="guesses"></div>
+    <div class="board-container">
+      <div class="board-container2">
+	      <div class="board-container">
+          <div id="chessboard"></div>
+	        <div class="rank-labels">
+              <div class="rank">8</div>
+              <div class="rank">7</div>
+              <div class="rank">6</div>
+             	<div class="rank">5</div>
+              	<div class="rank">4</div>
+              	<div class="rank">3</div>
+              	<div class="rank">2</div>
+              	<div class="rank">1</div>
+          </div>
+        </div>
+        <div class="file-labels">
+          <div class="file">a</div>
+          <div class="file">b</div>
+          <div class="file">c</div>
+          <div class="file">d</div>
+          <div class="file">e</div>
+          <div class="file">f</div>
+          <div class="file">g</div>
+          <div class="file">h</div>
+          <div class="file"></div>
+        </div>
+      </div>
+      <div class="board-container2">
+        <p id="message">Go Guess!</p>
+        <button id="redoButton">New Puzzle</button>
+      </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

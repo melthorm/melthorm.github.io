@@ -1,0 +1,211 @@
+body {
+    font-family: 'Garamond', serif; 
+    text-align: center;
+    background-color: #f9f9f9; 
+    padding: 20px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    height: 100vh; 
+    margin: 0;
+    overflow-y: scroll;
+}
+
+#puzzleInfo {
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+#guesses {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #335;
+}
+
+
+.board-container2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.board-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0 -10px;
+}
+
+.rank-labels {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+
+}
+
+.rank {
+    width: 60px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 24px;   
+    font-weight: bold;  
+}
+
+#message {
+    width: 360px; 
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.file-labels {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+}
+
+
+.file {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;  
+    font-weight: bold; 
+}
+
+
+#chessboard {
+    display: grid;
+    grid-template-columns: repeat(8, 60px);
+    grid-template-rows: repeat(8, 60px);
+    margin: 20px 0;
+    border: 2px solid #333;
+}
+
+.square {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+    user-select: none;
+    transition: background-color 0.3s, transform 0.2s; 
+}
+
+.highlightedG {
+    background-color: rgba(55, 219, 13, 0.4) !important; 
+    transition: background-color 0.5s ease-out;  
+}
+
+.highlightedR {
+    background-color: rgba(203, 0, 0, 0.4) !important; 
+    transition: background-color 0.5s ease-out;  
+}
+
+.white {
+    background-color: #f0d9b5;
+}
+
+.black {
+    background-color: #b58863;
+}
+
+.square:hover {
+    background-color: rgba(255, 255, 255, 0.2); 
+    transform: scale(1.05); /* Slightly enlarge the button */
+}
+
+/* Chess piece images*/
+.K {
+    background-image: url('images/white_king.png');
+    background-size: cover;
+}
+
+.Q {
+    background-image: url('images/white_queen.png');
+    background-size: cover;
+}
+
+.R {
+    background-image: url('images/white_rook.png');
+    background-size: cover;
+}
+
+.B {
+    background-image: url('images/white_bishop.png');
+    background-size: cover;
+}
+
+.N {
+    background-image: url('images/white_knight.png');
+    background-size: cover;
+}
+
+.P {
+    background-image: url('images/white_pawn.png');
+    background-size: cover;
+}
+
+/* Chess piece images for black */
+.k {
+    background-image: url('images/black_king.png');
+    background-size: cover;
+}
+
+.q {
+    background-image: url('images/black_queen.png');
+    background-size: cover;
+}
+
+.r {
+    background-image: url('images/black_rook.png');
+    background-size: cover;
+}
+
+.b {
+    background-image: url('images/black_bishop.png');
+    background-size: cover;
+}
+
+.n {
+    background-image: url('images/black_knight.png');
+    background-size: cover;
+}
+
+.p {
+    background-image: url('images/black_pawn.png');
+    background-size: cover;
+}
+
+/* Button styles */
+#redoButton {
+    background-color: #b58863; /* Green background */
+    border: none;
+    color: white; /* White text */
+    padding: 15px 32px; /* Top/Bottom, Left/Right padding */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 20px 0;
+    cursor: pointer; 
+    transition: background-color 0.3s, transform 0.2s; 
+}
+
+#redoButton:hover {
+    background-color: #f0d9b5; /* Darker green on hover */
+    transform: scale(1.05); /* Slightly enlarge the button */
+}
+
