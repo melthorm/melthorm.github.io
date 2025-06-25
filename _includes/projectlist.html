@@ -1,6 +1,6 @@
 <div>
   {% for project in paginator.projects %}
-  <h1><a href="{{ post.url | prepend: site.url }}">{{ project.title }}</a></h1>
+  <h1><a href="{{ project.url | prepend: site.url }}">{{ project.title }}</a></h1>
   <time datetime="{{ project.date | date_to_xmlschema }}" class="project-date">{{ project.date | date: "%B %e, %Y" }}</time>
   <p class="lead">{{ project.lead }}</p>
   {{ project.content }}

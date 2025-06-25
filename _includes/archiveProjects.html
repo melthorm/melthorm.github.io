@@ -1,12 +1,14 @@
-{% assign projectsByYearMonth = site.projects | group_by_exp: "projects", "projects.date | date: '%B %Y'" %}
+{% assign sortedProjects = site.projects | sort: 'date' | reverse %}
 
 <div class="archive">
-  {% for yearMonth in projectsByYearMonth limit:3 %}
-  <h2>{{ yearMonth.name }}</h2>
   <ul>
-    {% for project in yearMonth.items %}
-    <li><a href="{{ project.url | prepend: site.url }}">{{ project.title }}.</a> <span class="lead">{{ project.lead }}</span></li>
+    {% for project in sortedProjects limit:3 %}
+    <li>
+      <strong>{{ project.date | date: '%B %-d, %Y' }}</strong> —
+      <a href="{{ project.url | prepend: site.url }}">{{ project.title }}.</a>
+      <span class="lead">{{ project.lead }}</span>
+    </li>
     {% endfor %}
   </ul>
-  {% endfor %}
 </div>
+
