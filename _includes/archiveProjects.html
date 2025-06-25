@@ -1,7 +1,7 @@
 {% assign projectsByYearMonth = site.projects | group_by_exp: "projects", "projects.date | date: '%B %Y'" %}
 
 <div class="archive">
-  {% for yearMonth in projectsByYearMonth %}
+  {% for yearMonth in projectsByYearMonth limit:3 %}
   <h2>{{ yearMonth.name }}</h2>
   <ul>
     {% for project in yearMonth.items %}
