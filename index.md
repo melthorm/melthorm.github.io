@@ -9,7 +9,7 @@ HEY! It's a good song, ok, trust... Anyways, I'm `Ben` (it says Benjamin up ther
 
 I chose Computer Science because I really love math (`nerd`) and because I like being able to make something that I imagine into something real and tangible through programming. I mean, so many different fields with a lot of math are available for exploration via code which is very fun! 
 
-A few examples that I've worked stuffs on before and/or currently are `phylogenetics` (like evolutionary history), `phage engineering` (like core genes), and `signal acquisition` (like weird math complex numbers). Idk, for me personally, I believe CS is the best discipline for learning about different fields. If, for some apparent reason (unless you're a recruiter or something) you'd like to see my resume or _curriculum vitae_, click [here](/cv/).
+A few examples that I've worked stuffs on before and/or currently are `phylogenetics` (like evolutionary history), `phage engineering` (like core genes), and `signal acquisition` (like weird math complex numbers). Idk, for me personally, I believe CS is the best discipline for learning about different fields. If, for some apparent reason (unless you're a recruiter or something) you'd like to see my resume or _curriculum vitæ_, click [here](/cv/).
 
 # Some stuff about me
 
