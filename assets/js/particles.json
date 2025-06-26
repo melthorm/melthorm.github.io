@@ -89,9 +89,9 @@
       },
       "bubble": {
         "distance": 350,
-        "size": 10,
+        "size": 9,
         "duration": 10,
-        "opacity": 0.9,
+        "opacity": 0.75,
         "speed": 3
       },
       "repulse": {
