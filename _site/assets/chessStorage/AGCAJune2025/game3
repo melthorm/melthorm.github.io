@@ -1,0 +1,16 @@
+[Event "Tournament 6/21/2025: Guy just blundered two pawns, I kinda played bad, idk, Matthew R v Benjamin Cai"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[StudyName "Tournament 6/21/2025"]
+[ChapterName "Guy just blundered two pawns, I kinda played bad, idk, Matthew R v Benjamin Cai"]
+[UTCDate "2025.06.22"]
+[UTCTime "00:48:18"]
+[Annotator "https://lichess.org/@/TurboCompass"]
+[ChapterURL "https://lichess.org/study/zMyqTta6/YNACdYbP"]
+
+1. e4 c5 2. Nc3 { Bro I was sitting here freaking out because I hadn't looked at Grand Prix theory in a long time, and I decided to go for a d5 variation and then he just plays d4 like wtf } 2... e6 3. d4 cxd4 4. Qxd4 Nc6 5. Qd3 Nf6 6. Bf4 Qb6 { After playing this move, I immeidately realized a6 was best. Probably should've just followed the Khan setup. I mean I know what it is, should've just followed it. } 7. O-O-O a6 (7... Qxf2 8. Be3 Qh4 9. Nb5 (9. Nf3 Qh5 10. Nb5)) 8. e5 Ng4 9. Qg3 (9. Qe2 Nxf2 10. Be3 (10. Na4 Qa7 (10... Qa5)) 10... Bc5 11. Na4 Qa7 (11... Bxe3+)) 9... Nxf2 10. Na4 Nxh1 11. Nxb6 Nxg3 12. Nxa8 Nxf1 (12... Bc5 13. hxg3 Bxg1 14. Bxa6) 13. Nb6 Nxh2 { Oh shit Bc5 is good wtf } (13... Bc5 { Bro I saw ts and I did not think it was good. Like how is this good } 14. Nxc8 Bxg1 (14... Ne3 15. Nd6+ (15. Rd2 Nd5 16. Nd6+ (16. Bg3 O-O 17. Nd6) 16... Bxd6 17. exd6) (15. Rd3 Nxg2 16. Bg3) (15. Bxe3 Bxe3+ 16. Kb1 Nxe5 17. Nd6+ Ke7))) 14. Nxc8 { Oh well, I somehow missed Bc5, I'm pretty bad at chess now, it's fine probably that thing yk na } 14... Ng4 15. Nf3 Bc5 16. Nd6+ Bxd6 17. Rxd6 Ke7 18. c3 f6 19. exf6+ gxf6 20. Rd2 e5 21. Bg3 Rg8 22. Bh4 Ne3 23. Re2 Nxg2 24. Nxe5 Nxe5 25. Rxe5+ Kf7 26. Rh5 Kg6 27. Rd5 Nxh4 28. Rxd7 Rg7 *
+
+
+

@@ -1,0 +1,16 @@
+[Event "Tournament 6/21/2025: Kind of an immortal game (either way pretty good) Benjamin Cai v Daniel Hung"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "D86"]
+[Opening "Grünfeld Defense: Exchange Variation, Classical Variation"]
+[StudyName "Tournament 6/21/2025"]
+[ChapterName "Kind of an immortal game (either way pretty good) Benjamin Cai v Daniel Hung"]
+[UTCDate "2025.06.22"]
+[UTCTime "00:38:10"]
+[Annotator "https://lichess.org/@/TurboCompass"]
+[ChapterURL "https://lichess.org/study/zMyqTta6/7AC0pEnU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8. Be3 Nc6 9. Ne2 O-O 10. O-O e6 11. f3 Na5 12. Bd3 c4 13. Bc2 b6 14. Qe1 Bb7 15. h4 { Debating between Qg3 or h4 because after h4, he can play Qc7 } 15... h5 { I think this is mistake } 16. Qg3 Kh7 { Definitely a mistake, I thought after Bf6 I would go Bf2 and keep on trying to attack, but there's probably no attack anymore } 17. e5 Bh6 18. Nf4 Rg8 19. Bc1 { Huge mistake by me, I did this because I was afraid in some variations, allowing him to take my bishop with a check would be very bad, but honestly, I didn't have anything concrete. Should've just brought my a rook in though } (19. Rae1) 19... Bxf4 20. Bxf4 (20. Qxf4 Rg7 21. Qh6+ Kg8 22. Bg5 Qf8 23. Bf6 Rh7 24. Qg5 { I did not think this was that winning. Like I was looking at this and I thought he could consolidate }) 20... Nc6 21. Bg5 Qd7 22. Bf6 Ne7 23. Qg5 Nf5 24. g4 { How tf did I miss Kh2, super basic move, for some reason, I thought that it was cooler to hang my queen???? } (24. Kh2) 24... hxg4 25. fxg4 (25. Bxf5 exf5 26. h5) 25... Qd5 26. gxf5 gxf5 27. Rxf5 Qh1+ (27... Qg2+ 28. Qxg2 Rxg2+ 29. Kf1 exf5 30. Bxf5+ Kg8) 28. Kf2 Qh2+ 29. Ke3 Rxg5 30. Rf2+ Kg8 31. Rxh2 Rg3+ 32. Kd2 Kf8 33. h5 Ke8 34. h6 Kd7 35. h7 *
+
+
+
