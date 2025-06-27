@@ -3,7 +3,7 @@ layout: post
 title: "My Best Tournament Yet?"
 date: 2025-06-26
 lead: "After a long tilt, finally some chess wins at AGCA Summer Open 1"
-image: /assets/postImages/MyBestTournamentYet?1.png
+image: /assets/postImages/MyBestTournamentYet1.png
 ---
 
 I have gone a `long(?)` time without success at a chess tournament. I mean, that definition is rather relative, but for me, I think I've gone about a full year without a truly successful tournament. I've had tournaments where I haven't been completely droven into the `ground`, but I haven't had any for at least a year where I've felt confident (and `good`) at chess. The last tournament where I had success was the 2024 Universal Chess Open U2000`(?)` where I got 2nd place (+ a lot of `money`!). Hans Niemann played at that tournament. I saw him. It was quite the experience.
