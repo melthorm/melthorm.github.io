@@ -14,7 +14,7 @@ I got a latex resume somewhere, lemme find it rq.
 
 <a href="/assets/files/2_Page_Resume.pdf" target="_blank">Found it!</a>
 
-Word of warning, I have not updated it in some time, and it was also used for, I think, jobs, idk, doesn't have much other stuff on it. So, uh, I will do what is absolutely necessary for the well-being of this site and add a more `extended` resume down here.
+Word of warning, I have not updated it in some time, and it was also used for, I think, jobs, idk, doesn't have much other stuff on it. So, uh, I will do what is absolutely necessary for the well-being of this site and add a more `extended` resume, focused on no job stuff, down here.
 
 ## Programming
 I made some cool projects like <a href="/webProjects/chessHangman/index.html" target="_blank">Chess Hangman</a> (warning: it's very zoomed in). I also learned a lot about a lot of different fields, mostly phylogenetics (here's a <a href="/assets/files/ViralSim_Report.pdf" target="_blank">summary (LaTeX report)</a> and a <a href="/assets/files/BenjaminCai_Oden_Presentation.pdf" target="_blank">presentation (LaTeX Beamer)</a> I gave at the Oden Institute for one of the projects that I've worked on in phylogenetics, ViralSim). I did a lot of other stuff (most of which is not actually on GitHub but instead on <a href="https://codeberg.org/melthorm" target="_blank">Codeberg</a>. A lot of `math` was learned through programming... or maybe it was the other way around. Yeah, it was probably the other way around.
