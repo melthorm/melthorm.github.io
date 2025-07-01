@@ -3,7 +3,7 @@ layout: project
 title: "ViralSim"
 date: 2025-06-30
 lead: "Very cool and very fun to build!"
-image: /assets/projectImages/ViralSimBarGraph.png
+image: /assets/projectImages/viralSimBarGraph.png
 ---
 
 `ViralSim` is a cool little project I've been working on for about a year now. Essentially, `ViralSim` simulates viruses moving through populations with a focus on accurate geographic data through an agent-based model. Also, `ViralSim` involves an older project that focused on identifying transmission clusters (genetically similar sequences from the same location) along with a couple of available analysis metrics for measuring fitness (which I defined as a virus's ability to propagate through its family tree).
@@ -12,7 +12,7 @@ image: /assets/projectImages/ViralSimBarGraph.png
 ***
 ***
 
-It is pretty cool! You can see a more detailed paper <a href="/assets/files/ViralSim_Report.pdf" target="_blank">here</a>, and you can find the codebase <a href="codeberg.org/melthorm/ABMTC" target="_blank">here</a>. This project was very fun!
+It is pretty cool! You can see a more detailed paper <a href="/assets/files/ViralSim_Report.pdf" target="_blank">here</a>, and you can find the codebase <a href="https://codeberg.org/melthorm/ABMTC" target="_blank">here</a>. This project was very fun!
 
 ```Couple points to improve would be connecting fitness with transmission clusters directly. I thought about that for a long time but could not find a logical connection. Something else would be benchmarking along with fitness in real-world viruses. I do quite like how this turned out though!```
 
