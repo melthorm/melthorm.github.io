@@ -12,7 +12,7 @@ permalink: /cv/
 
 I got a latex resume somewhere, lemme find it rq.
 
-<a href="/assets/files/2_Page_Resume.pdf" target="_blank">Found it!</a>
+<a href="/assets/files/BenjaminCai_Resume-2.pdf" target="_blank">Found it!</a>
 
 Word of warning, I have not updated it in some time, and it was also used for, I think, jobs, idk, doesn't have much other stuff on it. So, uh, I will do what is absolutely necessary for the well-being of this site and add a more `extended` resume, focused on no job stuff, down here.
 
