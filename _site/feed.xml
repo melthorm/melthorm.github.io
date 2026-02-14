@@ -1,4 +1,104 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-01-06T14:53:03-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Benjamin Cai</title><author><name>Benjamin Cai</name><email>main@benjamincai.com</email></author><entry><title type="html">Life3</title><link href="http://localhost:4000/2026/01/01/Life3/" rel="alternate" type="text/html" title="Life3" /><published>2026-01-01T00:00:00-06:00</published><updated>2026-01-01T00:00:00-06:00</updated><id>http://localhost:4000/2026/01/01/Life3</id><content type="html" xml:base="http://localhost:4000/2026/01/01/Life3/"><![CDATA[<p>Alright, it’s New Year’s Day! Isn’t that crazy? Uh, I don’t really know how to start this. Man, how’d I start past posts. Yk, to write these, I just copy paste the old one.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-02-14T10:26:09-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Benjamin Cai</title><author><name>Benjamin Cai</name><email>main@benjamincai.com</email></author><entry><title type="html">Second Semester</title><link href="http://localhost:4000/2026/02/13/Second-Semester/" rel="alternate" type="text/html" title="Second Semester" /><published>2026-02-13T00:00:00-06:00</published><updated>2026-02-13T00:00:00-06:00</updated><id>http://localhost:4000/2026/02/13/Second-Semester</id><content type="html" xml:base="http://localhost:4000/2026/02/13/Second-Semester/"><![CDATA[<p>Alright, so, I have been very busy. For one, I am just now realizing that perhaps I should reconsider my plans for the summer. For two, I have severely overbooked my life (one could make that argument). For last, every single weekend has been far too booked to properly sit down and type out my thoughts in a blog post.</p>
+
+<p>But now, I have decided to just wait a tiny bit on our next comp arch prog (writing a very bad compiler) along with waiting on studying for real analysis (a topic in which I am very bad) to sit down and type out thoughts. Yes. Just thoughts. This is perhaps less than ideal.</p>
+
+<hr />
+
+<h2 id="what-it-means-to-be-great">What it means to be great</h2>
+<p><img src="/assets/postImages/SecondSemester2.png" alt="stsdfs" title="great" /></p>
+
+<p>What does it mean to be great? Or better yet, how does one become great? There’s this one quote from Blue Lock that, for some reason, I have locked through a conky setup to be permanently etched onto my monitor.</p>
+
+<p>It goes</p>
+
+<blockquote>
+  <p>What is the first thing you do in the morning? Is your first action something that brings you closer to being the best in the world? Is every moment, second, minute and day of yours really doing anything for you to get closer to becoming the best?<br />
+-Noel Noa</p>
+</blockquote>
+
+<p>I think this is from the Man United guy talking to the Blue Lock guy. I kind of forgot their names. It’s fine tho. Recently, I’ve been thinking about what I want to do with my life. What avenues do I want to pursue? How do I want to leave my mark? And the real answer that I’ve come to, if you could call anything I think of an answer at all, is that I don’t want to die alone.</p>
+
+<p>Money is important. Prestige is important. But frankly, everything is too fleeting. I don’t know if that makes sense. Perhaps, this is just from my addiction to YouTube Shorts (which I don’t even know how ts happened, I seriously thought I was immune), but most sensations just feel too short. I don’t know. Perhaps this is also just because of comp arch though. That class is not fun.</p>
+
+<p>Anyways, I thought it’d be useful to list out some of the goals in my life so that in 20 years or if some random guy stumbles upon it, they can bully me for achieving exactly 0 of them.</p>
+
+<p>Let’s see</p>
+<ul>
+  <li>Become GM in chess (probably already too much to even try for a title given age and other commitments but a guy can hope)</li>
+  <li>Publish papers in math and phylogenetics</li>
+  <li>Receive a PhD</li>
+  <li>Make fistfuls of cash</li>
+  <li>Start some company since that sounds fun</li>
+  <li>Write a good book</li>
+  <li>Perform the 4 Chopin Ballades at an acceptable level</li>
+</ul>
+
+<p>These goals are all pretty ambitious, though then again, what is life without ambition? I don’t know why I’m waxing philosophical (Hell, I don’t even know how to spell the word). I might be cooked.</p>
+
+<hr />
+
+<h2 id="comp-arch">Comp Arch</h2>
+<p><img src="/assets/postImages/SecondSemester3.png" alt="stsdfs" title="comp arch" /></p>
+
+<p>How does a computer work? I do not know. I think I still will not know after taking Computer Architecture. In fact, I think I will still not know how a computer works after getting my Bachelor’s. In fact I don’t think I will ever know how a computer works. There is just too much to it. There’s some weird physics, some weird stuff to just memorize, some weird optimizations, some weird everything.</p>
+
+<p>So, computer architecture… This is a class that does exist in the set of all classes. Surprisingly, while I feel like this class is much higher stakes in that getting an A has a much more important result (that being CS Honors acceptance), I somehow feel less stressed about the class. Though, perhaps this is not the correct path. The reason I say that is because I am kind of throwing on the quizzes. In CS 314 and CS 311 (last semester’s important CS classes), I kind of maintained the <code class="language-plaintext highlighter-rouge">correct</code> score throughout all the examinations. However, for architecture, I am already down 3 points on my final grade (not including assignments). That means I have 3 points left to work with.</p>
+
+<p>That is not a lot. The programming assignments are a lot of work, and I do stress about them (especially when I only leave myself 2-4 days to do an entire deadline), but to be honest, I think the quizzes are infinitely more important. I think the quizzes are where the grade will be determined in this class. Anyways, all this is to write down my thoughts so I realize that it is about time to start stressing about computer architecture. It is surprising since last semester, I actually got a teeth grinding problem (most likely due to stress) during classes. This semester though, I just feel relaxed. It’s hard to explain.</p>
+
+<p>I actually really like the programming assignments for this class. I think they’re useful and force you to learn C along with plan out large codebases. If it was up to me, I’d make the assignments 2 times as long per deadline and just remove the quizzes (because I am throwing on the quizzes!). Then again, I get that with AI, they probably can’t just do that. Quizzes aren’t even that bad. Like all things considered, they are probably simpler than 314 and 311 quizzes. I am just throwing and being stupid for some reason.</p>
+
+<p>Also, <a href="https://www.youtube.com/watch?v=Wz_xJPN7lAY">lookee here</a>.</p>
+
+<hr />
+
+<h2 id="plans-for-next-couple-semesters">Plans for next couple semesters</h2>
+<p><img src="/assets/postImages/SecondSemester4.png" alt="stsdfs" title="light" /></p>
+
+<p>So every couple days, I ask myself what it is I want to do with my life. I might have dementia. Anyways, point being, I feel I am overcommitted. I am kind of stretching myself with math, CS, biology, and kind of chess (since I am now treating it as a job). Oh also research, though hopefully I am on the tail end of that. The way I would rateh the classes is Comp Arch Honors workload = 3x workload of Real Analysis = 10x workload of organic chemistry and genetics = 2x workload of statistics class. Note that the 10x is there to highlight that some of these classes take far more time. This is why I am somewhat <code class="language-plaintext highlighter-rouge">ok</code> with overcommitting. The classes that I’m overcommitting to are surprisingly not taking remotely as much effort or time or brainpower as I was originally expecting (or that I can provide). Though that does also worry me.</p>
+
+<p>I am somewhat arrogant. But I am not egotistical or naive enough to truly believe that I can put in a bare amount of effort into my premed classes and learn everything/gain everything that everybody else is gaining. Even if my grades in those classes look fine, I still feel like I am lacking something as I am spending much less time than CS/math classes. I don’t know. There is not a real solution to this problem to be frank. Like, I feel as if I understand and grasp the material at a high enough level, but still, I just feel like the time committment is just far too low.</p>
+
+<p>Either way, this semester, my main goal is to get good at chess, get all As to transfer into Turing Scholars, and either get an internship or set myself up to do something cool this summer. I don’t know what I would do but starting company, starting YouTube, or grinding chess/another kind-of hobby (though more of full-time job at that point) sound like good possible ideas.</p>
+
+<p>Next semester, I will hopefully have gotten an A (through tryharding computer architecture quizzes) so I will have transferred into Turing. Then, I will probably try to take a grad theory class, evolution, OS honors, Algorithms honors, Topology, and some other bio class. That actually sounds horrid. Don’t worry! Trust, it will be very fun!</p>
+
+<p>I did try to take a grad course this semester. I got cooked and railed and it was very sad. Eh, it’s probably for the best, though I would’ve preferred to have the option and freedom to choose for myself still.</p>
+
+<p>Hopefully, by the end of this semester, I will have published something. I need to work harder at that. Also, also, next semester, I also apparently need to find an internship at Jane Street… I kind of made a bet with some acquaintances that I would get an internship there or else have to do a challenge that I would really rather not engage in. It is fine. Trust. I will use my math skills (which I definitely have and are definitely not nonexistent) to grind out quant practice problems… Right guys… It’s not just luck at some point… Right guys…</p>
+
+<p>I do want to do research, but at the same time, I don’t want to be worrying about money. This is a major concern.
+I wonder how other people balance those concerns and come to conclusions. Man, I sound like AI. Also, jesus christ, sometimes I read things nowadays and just think this was clearly written by ChatGPT.</p>
+
+<hr />
+
+<h2 id="chess-stuff">Chess Stuff</h2>
+<p><img src="/assets/postImages/SecondSemester5.png" alt="stsdfs" title="moi" />
+<code class="language-plaintext highlighter-rouge">me</code></p>
+
+<p>Bro, how is chess so hard? Like it should not be that hard to play this game. Like, Stockfish makes it look so easy. Like, really isn’t every bad position salvageable. Idk.</p>
+
+<p>I was talking to a FM friend at a tournament, and he said that he didn’t think he got much better at chess over the past couple of years. Instead, he thinks he got better at scamming. Tbh, I kind of think the same. I feel like I used to play such dynamic, beautiful chess like 2-3 years ago, and nowadays, I just play the most boring positions where I just either squeeze my opponent or get squeezed. That is a poor choice of words. Then again, there is really no point in pointing such a thing out while typing. Oh well, I think part of these posts is just a chance to kind of say, there is no need to have privacy. I will reveal all my thoughts to the world (or more likely, whatever AI model is training on this post). Sad.</p>
+
+<p>On the topic of privacy, I think it is rather worthless to try to hold it in our current world. This is not to say that privacy itself is worthless. No, on the contrary, a perfect world should guarantee everybody privacy. However, I think such an ideal has become impossible. Let’s be frankly honest, everything you do on a computer is tracked so long as you are connected to the internet. Everything. Thus, there is no point in trying to maintain or separate an ‘unconscious’ or ‘shadow’ or whatever other term psychology uses to refer to the private self. Instead, the only real thing to do is to combine the two selfs such that one does not feel any shame at either one. Of course, you do not need to go out revealing every little thought that you have, but it is also useless to try to maintain any hope that your thoughts will be private. You will mutter things in your sleep. You will say certain things that allow certain hypotheses to be made. If you use ChatGPT, there is already a verifiable horde of data that can be used to create a psychological profile on who you are. Nothing will be private in a couple of years, and everybody will have to realize that there is no possibility that something you do is not broadcast. That is dystopian. But, it is the reality that far too many smart people are working towards, and thus, it is a reality that I believe to be unavoidable.</p>
+
+<p>Anyways, back to chess. I like chess. I wish I was better at chess. I am not capable of sitting down for a long period of time and truly grinding chess (by which I mean studying the game through games, books, and reasoned analyses). Instead, all I do is play rapid games. That is not the best way to improve. I should improve how I improve. Wow, strong chain of reasoning (LLM prompting technique?!?!?!?!).</p>
+
+<p>Also, I realized I was a degenerate chess player when a fire alarm occurred at my dorm while I was playing chess, and I subsequently launched lichess on my phone to finish the game. In other words, I stood outside in the dark while everybody else was talking playing chess.</p>
+
+<hr />
+
+<h2 id="to-conclude-i-will-conclude-by-saying-that-in-conclusion">To conclude, I will conclude, by saying that in conclusion…</h2>
+
+<p>Oh, while writing this, I did see that I talked about the Linear test and chess tournaments in my last post. So uh, I do not think I will have time to write full synopses on the chess tournaments I have recently played. Also, I did pass the Linear CBE though I did kind of throw on one of the questions as the question was so trivial, but, for some reason, I somehow forgot the formula for diagonalization. Ykw, I am going to talk about that problem now. The problem hid it by talking about multiplying a matrix by versions of its eigenvectors or something like that. It was a nice question, but I had not probably internalized diagonalization, and it just did not even occur to me to consider that as a possible answer. In that manner, I failed though I did get credit.</p>
+
+<p>Anyways, I do not want to die alone. I want a gf. That’s crazy.</p>
+
+<hr />
+
+<h2 id="best-scammer-in-all-of-texas">Best scammer in all of Texas</h2>
+<p><img src="/assets/postImages/SecondSemester6.png" alt="asdf" title="read" />
+<code class="language-plaintext highlighter-rouge">Crazy behavior. I just went down a piece against a 1700 for some reason because I was too afraid to go down a pawn and play for counterplay (ofc even though that was winning). Instead, I played something dubious and just attacked him. He was also far too scared to properly break my attack and then I got too much activity and he got cooked. So, in conclusion, my scamming skills have increased. I win this...</code></p>]]></content><author><name>Benjamin Cai</name><email>main@benjamincai.com</email></author><summary type="html"><![CDATA[Alright, so, I have been very busy. For one, I am just now realizing that perhaps I should reconsider my plans for the summer. For two, I have severely overbooked my life (one could make that argument). For last, every single weekend has been far too booked to properly sit down and type out my thoughts in a blog post.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/postImages/SecondSemester1.png" /><media:content medium="image" url="http://localhost:4000/assets/postImages/SecondSemester1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Life3</title><link href="http://localhost:4000/2026/01/01/Life3/" rel="alternate" type="text/html" title="Life3" /><published>2026-01-01T00:00:00-06:00</published><updated>2026-01-01T00:00:00-06:00</updated><id>http://localhost:4000/2026/01/01/Life3</id><content type="html" xml:base="http://localhost:4000/2026/01/01/Life3/"><![CDATA[<p>Alright, it’s New Year’s Day! Isn’t that crazy? Uh, I don’t really know how to start this. Man, how’d I start past posts. Yk, to write these, I just copy paste the old one.</p>
 
 <p>Also, I did not at all do the thing I mentioned last post. Man, I feel like I wasted Winter Break. Oh well, the real question is what is the purpose of life? What. Idk man</p>
 
