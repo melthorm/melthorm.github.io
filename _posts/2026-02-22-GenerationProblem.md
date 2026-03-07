@@ -8,7 +8,9 @@ image: /assets/postImages/GenerationProblem1.png
 
 This will be a rather short post since I do need to complete it in about 30 minutes so I may sleep. Tomorrow will be along day as I have planned to finally take action to bring about goals. This past weekend was spent very similar to many before it, yet also distinctly more wasteful.
 
-## 
+***
+
+## decis 
 ![stsdfs](/assets/postImages/GenerationProblem2.png "dedication")
 `Decisions, decisions, decisions`
 
