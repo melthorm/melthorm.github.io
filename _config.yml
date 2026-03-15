@@ -40,6 +40,9 @@ collections:
   posts:
     output: true
 
+markdown: kramdown
+kramdown:
+  math_engine: null
 
 plugins:
   - jekyll-feed

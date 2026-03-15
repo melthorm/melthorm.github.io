@@ -4,6 +4,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$']],
+      displayMath: [['$$', '$$']]
+    }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 
   <title>
     
@@ -351,12 +361,12 @@
 
 <p>I was unable to solve this. I was able to solve every other problem on that sheet (something I should probably not be proud of), but I was not able to solve that one even after thinking about it for about a month. The M 427L professor gave a <code class="language-plaintext highlighter-rouge">breathtaking</code> solution though.</p>
 
-<p>\(\int_0^a \frac{1}{\pi} \cos (\pi x) dx = 0\)
+<p><span class="kdmath">$\int_0^a \frac{1}{\pi} \cos (\pi x) dx = 0$</span>
 if and only if $a \in Z$. That is some <code class="language-plaintext highlighter-rouge">crazy</code> intuition to figure that out. The way I think you approach that is by trying to find things that only integer length items have. If $a \in Z$, then it is true that such an integral equals 0, and if such an integral equals 0, $a \in Z$.</p>
 
 <p>We can extend that integral to the <code class="language-plaintext highlighter-rouge">rectangle</code> by making it a double integral (M 427L is vector calc, so vector calc, yay!). Truthfully, vector calc is surprisingly interesting given that most of the material is review. My professor is cracked at <code class="language-plaintext highlighter-rouge">lecturing</code> though.</p>
 
-<p>\(\int_0^a \int_0^b \frac{1}{\pi^2} \cos (\pi x) \cos (\pi y) dx dy = 0\)
+<p><span class="kdmath">$\int_0^a \int_0^b \frac{1}{\pi^2} \cos (\pi x) \cos (\pi y) dx dy = 0$</span>
 if and only if $a \in Z$ or $b \in Z$. So beautiful. Wow. Isn’t that just crazy?</p>
 
 <p>Then, the reasoning becomes <code class="language-plaintext highlighter-rouge">trivially</code> simple. All you say is that, since all the subrectangles that make up R must be 0 for this integral, the entire rectangle R must be 0 for this integral (since you can <code class="language-plaintext highlighter-rouge">split</code> integrals up into smaller versions). Thus, since the entire rectangle R must be 0 for this integral, we know that at least one of its sides must be 0 (as the integral is if and only if). <code class="language-plaintext highlighter-rouge">SO BEAUTIFUL.</code></p>
@@ -434,7 +444,7 @@ if and only if $a \in Z$ or $b \in Z$. So beautiful. Wow. Isn’t that just craz
 </div>
 
 
-  <small>&copy; <time datetime="2026-03-07T13:33:12-06:00">2026</time>
+  <small>&copy; <time datetime="2026-03-15T15:50:15-05:00">2026</time>
     Benjamin Cai. All rights reserved. Also, this site could not be made without <a href="/https://github.com/piazzai/cvless/" target="_blank">cvless</a> + blatantly inspired by <a href="https://turtlely.github.io/" target="_blank">Ryan Tang's site</a></small>
 </footer>
 
