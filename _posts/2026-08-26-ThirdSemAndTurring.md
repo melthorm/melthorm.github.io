@@ -1,0 +1,71 @@
+---
+layout: post
+title: "ThirdSemAndTurring"
+date: 2026-08-26
+lead: "so uh three month break that is normal now i propose"
+image: /assets/postImages/ThirdSemAndTurring1.png
+---
+
+Hola mis amigos. I took Spanish in high school. I do not know why I am beginning this post in this manner though.
+
+Lots of things have transpired since I last wrote here. Time is a very ethereal mistress (that sounds deep though it is not really). I feel like the last three days have felt like a year and this previous summer -- all four months of it -- was only a single hour. I don't even mean this in a 'this summer was worse and not fun'. No, on the contrary, I'd even venture to say that this summer was more fun. That being said, time is an ethereal mistress (holy yap). 
+
+***
+
+## ThirdSemAndTurring
+![stsdfs](/assets/postImages/ThirdSemAndTurring2.png "turing")
+`schedule go brr`
+
+Guys, guys, look at this cool quarter zip! I don't know why, but for some reason, some of the people I talk to have commented on it. It feels nice though and one guy I knew that has one from the same brand said it did not look good on him so he will not wear it. I disagree with his sentiment.
+
+Also, I got into the Turing Scholars Program! That was very fun and probably one of the reasons why the last three days have felt so much longer than they actually are. 
+
+I suppose some people would provide a recollection of and advice from their first full year of college here. I will provide only the latter. My piece of advice is talk to people. Life is more fun that way.
+
+***
+
+## Reading and Writing
+![stsdfs](/assets/postImages/ThirdSemAndTurring3.png "im illiterate")
+`AM I LITERATE? The answer is no`
+
+So, in my last post, I spoke of the ugly side of a summer without employment. I mean, lowkey, I was sort of employed since I worked a pseudo-job with hours and stuff, but like, it was kind of hybrid so I also rotted at home. 
+
+The bright side is time to do stuff that feels fulfilling. I read a couple books -- there exist a lot of pdfs of the 'classics' out there. I also read a lot of web novels. A book that I, for some tenebrous reason, decided to allow my eyes to roll through was by the fabled Vladimir Nabokov. It was Lolita. 
+
+How would I describe Lolita? Nabokov has very good prose. But, I dropped the novel multiple times. It is painful to read. But, the prose -- maybe it is just because Victorian prose sounds so much better than every translated web novel -- hooked me. Like Freedom by Jonathan Franzen, I cannot, in good conscience, recommend Lolita to anybody though.
+
+I wrote a fair bit during this summer. Not enough to make me feel like I wrote enough, but I would say I wrote maybe half of what I've wrote in my entire life in terms of volume. That is a clunky sentence. Hopefully, you glean the meaning.
+
+***
+
+## Schedule 
+![stsdfs](/assets/postImages/ThirdSemAndTurring4.png "schedule")
+`AM I LITERATE? The answer is no`
+
+Guys, guys! Look at my schedule! Is this aura? It's not. I don't know why I'm doing this. Well, I suppose I do know, but it is questionable nonetheless. I think I will survive though.
+
+As a preliminary review as of Aug 30 (I know this blog post says Aug 26, but that is because I put off completing it), I think the most time-consuming class will be OS. That comes without any doubt. I am looking forward to it. I don't think I will stress remotely as much as computer architecture which means I can focus on the actually fun parts which are the projects. Getting into Turing is like a huge weight off my shoulders. My first two semesters were lowkey hell. They had their moments, but it was hell. This semester, I feel like I can relax. I am actually really looking forward to OS projects. I've talked about this to some degree in prior posts, but computer architecture projects were really satisfying to complete. The concepts themselves were also interesting like heap management, cache protocols, and ASTs. I lowkey have PTSD from our last project since I did not complete it on time though. That was one of our only Verilog projects, so I think I will try to avoid Verilog like the plague now.
+
+Two classes that I don't think I will enjoy are principles of machine learning and general microbiology. I actually think the concepts are interesting; I just don't know if I vibe with the design of the course. I mean the main reason why I don't think I'll like CS 363M is because it is at 9:30 meaning I have to deal with the hour long commute of rush traffic. Holy shit. I hate traffic. TS is actually the most miserable experience in the world. If hell exists, one punishment is fs just sitting in a car, knowing you have somewhere to be, being bored out your mind with your whole body tense, pressing brake and gas over and over again. Also, the first assignment did not leave a very good taste in my mouth. I think I just don't like Jupyter notebook like UIs. I felt the same with the SDS class I took last semester. For general microbiology -- hm, I actually think I will like the class -- it is moreso that I don't love the fact that to even do the assignments I have to pay $100. This is better than the other section which would require me to buy a goddamn computer in order to install the spyware called Respondus lockdown browser. Respondus lockdown browser makes me very sad. I just want to take a paper exam or an exam on Canvas. I actually like paper exams. They feel nice and nostalgic.
+
+Uh, I guess I am just doing a classes list now. One class that I think will be less work than I expected is Algebraic Structures. I took an analysis class last semester and it was a ton of work. The professor was great, the material was great, the way he taught was great -- the only problem is that I was drowning in work to do for that class. Of course, to omit the impact CS 429H (comp arch) had on my other classes would be naive. Algebraic Structures seems like a lot more number theory than I thought. Then again, it is just the very first week. That being said, iirc, the first analysis homework was a lot of work as well. Honestly, my professor for real analysis is the GOAT. He's British. Hopefully, I can take another class taught by him.
+
+Biochemistry and Game Theory were sort of in the realm of what I expected. Biochemistry is a lot of memorization but there is also fun stuff. Actually, a bit of a pet peeve of mine in these true 'natural sciences' classes is that there is too much focus on labwork. I mean, I get that it is important, but I really just want to learn about mechanisms and whatnot. Idk, I mean, it's not that big a deal; I just don't quite like reading about microscopes and sequencing and column chromatography and gel electrophoresis and all this lab work. Game theory seems really interesting. The first PSet had a really nice problem. I don't think I am allowed to share, but my solution made use of the fact that the \mathbb{R} is infinite. I just realized I forgot the definition of topological compactness. That is probably not good. That makes me sad. Man, I wrote really poorly in these posts. That also makes me sad :(
+
+## Job apps cause i have nothing else to talk about
+![stsdfs](/assets/postImages/ThirdSemAndTurring5.png "I dunno bro")
+`Am I literate? idk bro, also I have not leetcoded at all :skull :sob :skull :sob`
+
+I will be doing recruiting this semester. That does not sound fun. Oh well, it is a part of life. Truthfully, using just a modicum of reflectiveness, I am melancholic about where my life is heading. I feel like I have given up on many hobbies in exchange for other things. Lowkey, I had time during the summer to invest in them, but I just didn't. At least I still write though I feel like I will have so little time to actually do that and have fun(?) -- this is sort of false, I have fun doing other things -- that I won't be able to achieve any of my goals in that discipline. Honestly, goal-oriented hobbies is not even how I think about that either. I think I have goals cross my mind, but really just doing it is fun. Idk. Makes me somewhat sad.
+
+Anyways, on the topic of internship applications, I know some guy who is fully automating the process. He had Claude build some program that automatically finds roles, tailors his resume to certain roles, and then applies. I am lowkey too lazy and too frugal to do that. I don't want to pay for Claude Pro. I mean, UT Austin technically has some subscription automatically, so I guess I could try. Also, another complaint I have is internships that require essays to apply to. Like, I understand that they want to get to know the candidate, but there are better ways like interviews to accomplish that task. I have a friend who applied to a prestigious role and got a superday and he legitimately just GPTed the essays they requested. So, I really do not see the point of including those essays.
+
+## To conclude, I will conclude, by saying that in conclusion...
+Yes, reading my past self's writings in this location makes me a bit sad. 60 year old me will be proud though! Hopefully... 
+
+Really, I think I just need to write more. I think that will be what will make future me proud and will make current me fulfilled. Idk. I also want to do other things too though. Life is full of tradeoffs (CS 314 reference?!?!?)
+
+***
+
+## No chess today
+I have not played chess in too long. That makes me sad.
